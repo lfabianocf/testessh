@@ -1,2 +1,4 @@
 teste com GitGub
 primeiro arquivo criado
+
+teste de conflito de arquivo 1
