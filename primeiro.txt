@@ -1,4 +1,8 @@
 teste com GitGub
 primeiro arquivo criado
+<<<<<<< HEAD
 
 teste de conflito de arquivo 1
+=======
+teste alterando no git hub
+>>>>>>> cbbd5526de6b5506c343458b50ecbfab796c16e9
