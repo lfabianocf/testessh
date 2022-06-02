@@ -1,2 +1,2 @@
 # testessh
-teste ssh cahve
+teste ssh chave
